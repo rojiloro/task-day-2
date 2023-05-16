@@ -78,7 +78,7 @@ nav ul li .active {
   flex: 60%;
 }
 
-.c-left a {
+.kontak {
   background-color: #111727;
   color: white;
   padding: 6px 25px;
@@ -100,4 +100,14 @@ nav ul li .active {
   box-shadow: 0 0 15px #cecece;
   padding: 10px;
   text-align: center;
+}
+
+.icon {
+  font-size: 50px;
+  font-weight: bold;
+  margin-top: 50px;
+}
+
+.icon a {
+  color: black;
 }
